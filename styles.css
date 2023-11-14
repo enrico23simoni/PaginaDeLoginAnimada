@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-@import "/CSS/container.css";
-@import "/CSS/input-box.css";
-@import "/CSS/titulo.css";
-@import "/CSS/remember-forgot.css";
-@import "/CSS/register-link.css";
-@import "/CSS/input-check.css";
-@import "/CSS/button.css";
-@import "/CSS/login-light.css";
-@import "/CSS/toggle.css";
+@import "/container.css";
+@import "/input-box.css";
+@import "/titulo.css";
+@import "/remember-forgot.css";
+@import "/register-link.css";
+@import "/input-check.css";
+@import "/button.css";
+@import "/login-light.css";
+@import "/toggle.css";
 
 * {
     margin: 0;
