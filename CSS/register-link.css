@@ -1,0 +1,20 @@
+.register-link {
+    color: #fff;
+    font-size: 0.9em;
+    text-align: center;
+    margin: 25px 0 10px;
+    transition: .5s ease;
+}
+
+.register-link p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color .5s ease;
+}
+
+.register-link p a:hover {
+    text-decoration: underline;
+}
+
+

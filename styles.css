@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import "/CSS/container.css";
+@import "/CSS/input-box.css";
+@import "/CSS/titulo.css";
+@import "/CSS/remember-forgot.css";
+@import "/CSS/register-link.css";
+@import "/CSS/input-check.css";
+@import "/CSS/button.css";
+@import "/CSS/login-light.css";
+@import "/CSS/toggle.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.link-deco {
+    text-decoration: none;
+    color: white;
+}
+
+

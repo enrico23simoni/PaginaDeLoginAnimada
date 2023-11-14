@@ -1,0 +1,23 @@
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 0.9em;
+    margin: -15px 0 15px;
+    transition: .5s ease;
+}
+
+.remember-forgot label input {
+    accent-color: #fff;
+    margin-right: 3px;
+    transition: .5s ease;
+}
+
+.remember-forgot a {
+    transition: color .5s ease;
+}
+
+.link-esqueciMinhaSenha:hover {
+    text-decoration: underline;
+}
+
